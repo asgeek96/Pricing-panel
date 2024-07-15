@@ -1,2 +1,2 @@
 # Pricing-panel
-Responsive Static Web design with flex-box
+Responsive Static Web Design with Flexbox
